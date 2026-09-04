@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `30m` sample updated in sync
 
-> **Sample on GitHub** · `EUSTX50_30m.csv` (1,848 rows, `2026-06-02` -> `2026-09-01`, 186.00 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **99,696** `30m` rows (full `1m`: 2,836,357), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
+> **Sample on GitHub** · `EUSTX50_30m.csv` (1,848 rows, `2026-06-02` -> `2026-09-01`, 186.01 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **99,696** `30m` rows (full `1m`: 2,770,438), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
 
 ## Download sample
 
@@ -46,7 +46,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 | Instrument | EURO STOXX 50 · Index | EURO STOXX 50 · Index |
 | Timeframes | `30m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
 | 30m rows | 1,848 | **99,696** |
-| Size | 186.00 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eustx50) |
+| Size | 186.01 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eustx50) |
 | Period | `2026-06-02` -> `2026-09-01` | `2012-08-27` -> `2026-09-01` |
 | File | `EUSTX50_30m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eustx50) |
 | Coverage report | — | [EUSTX50 coverage](https://getdata.finance/coverage/eustx50) |
